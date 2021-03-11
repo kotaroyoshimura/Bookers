@@ -4,22 +4,16 @@
 
 
 
-body{
-  background-color: #fff;
-  color: #333;
-  font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
-  margin: 33px;
+label{
+  display: block;
 }
 
-p{
-  font-family:block;
-  font-size:13px;
-  line-height:18px;
-  margin:33px;
+.field{
+  margin-bottom:10px;
 }
 
-a{
-  color:#000;
+.table-title{
+  display:table-header-group;
+  vertical:middle;
+  border-color:inherit;
 }
